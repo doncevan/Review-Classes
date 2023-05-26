@@ -59,7 +59,7 @@
       <recent name="C:\Users\magre\eclipse-workspace\Review Classes\src\reviewClass01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeTester">
+  <component name="RunManager" selected="Application.jgngv">
     <configuration name="ConstructorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reviewClass08.ConstructorExample" />
       <module name="Review Classes" />
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass07.MethodsTest" />
+    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass09.ShapeTester" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass07.*" />
+          <option name="PATTERN" value="reviewClass09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass09.ShapeTester" />
+    <configuration name="jgngv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass10.jgngv" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass09.*" />
+          <option name="PATTERN" value="reviewClass10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jgngv" />
         <item itemvalue="Application.ShapeTester" />
         <item itemvalue="Application.Hospital" />
         <item itemvalue="Application.ConstructorExample" />
         <item itemvalue="Application.reviewClass07.StringMethods" />
-        <item itemvalue="Application.MethodsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -168,12 +168,20 @@
       <option name="project" value="LOCAL" />
       <updated>1683859650390</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reviewClass09">
+      <created>1684462099488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684462099488</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reviewClass07" />
     <MESSAGE value="reviewClass08" />
-    <option name="LAST_COMMIT_MESSAGE" value="reviewClass08" />
+    <MESSAGE value="reviewClass09" />
+    <option name="LAST_COMMIT_MESSAGE" value="reviewClass09" />
   </component>
 </project>
