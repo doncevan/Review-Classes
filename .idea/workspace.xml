@@ -35,9 +35,10 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/magre/eclipse-workspace/Review Classes/src/reviewClass05&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
@@ -58,14 +59,17 @@
       <recent name="C:\Users\magre\eclipse-workspace\Review Classes\src\reviewClass02" />
       <recent name="C:\Users\magre\eclipse-workspace\Review Classes\src\reviewClass01" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reviewClass11" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.jgngv">
-    <configuration name="ConstructorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass08.ConstructorExample" />
+  <component name="RunManager" selected="Application.E14Maps">
+    <configuration name="E10PracticelExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass11.E10PracticelExamples" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass08.*" />
+          <option name="PATTERN" value="reviewClass11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass08.Hospital" />
+    <configuration name="E13Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass11.E13Collections" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass08.*" />
+          <option name="PATTERN" value="reviewClass11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass09.ShapeTester" />
+    <configuration name="E14Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass11.E14Maps" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass09.*" />
+          <option name="PATTERN" value="reviewClass11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jgngv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass10.jgngv" />
+    <configuration name="E8ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass11.E8ArrayList" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass10.*" />
+          <option name="PATTERN" value="reviewClass11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reviewClass07.StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass07.StringMethods" />
+    <configuration name="E9ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass11.E9ArrayList" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass07.*" />
+          <option name="PATTERN" value="reviewClass11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jgngv" />
-        <item itemvalue="Application.ShapeTester" />
-        <item itemvalue="Application.Hospital" />
-        <item itemvalue="Application.ConstructorExample" />
-        <item itemvalue="Application.reviewClass07.StringMethods" />
+        <item itemvalue="Application.E14Maps" />
+        <item itemvalue="Application.E13Collections" />
+        <item itemvalue="Application.E10PracticelExamples" />
+        <item itemvalue="Application.E9ArrayList" />
+        <item itemvalue="Application.E8ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -175,13 +179,32 @@
       <option name="project" value="LOCAL" />
       <updated>1684462099488</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="reviewClass10">
+      <created>1685067485343</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685067485343</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reviewClass07" />
     <MESSAGE value="reviewClass08" />
     <MESSAGE value="reviewClass09" />
-    <option name="LAST_COMMIT_MESSAGE" value="reviewClass09" />
+    <MESSAGE value="reviewClass10" />
+    <option name="LAST_COMMIT_MESSAGE" value="reviewClass10" />
   </component>
 </project>
