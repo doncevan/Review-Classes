@@ -60,16 +60,17 @@
       <recent name="C:\Users\magre\eclipse-workspace\Review Classes\src\reviewClass01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reviewClass12" />
       <recent name="reviewClass11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E14Maps">
-    <configuration name="E10PracticelExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass11.E10PracticelExamples" />
+  <component name="RunManager" selected="Application.E7InterviewQuestionAsghar">
+    <configuration name="E10ConfigReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass12.E10ConfigReader" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass11.*" />
+          <option name="PATTERN" value="reviewClass12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E13Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass11.E13Collections" />
+    <configuration name="E7InterviewQuestionAsghar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass12.E7InterviewQuestionAsghar" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass11.*" />
+          <option name="PATTERN" value="reviewClass12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E14Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass11.E14Maps" />
+    <configuration name="E8Dog (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass12.E8Dog" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass11.*" />
+          <option name="PATTERN" value="reviewClass12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E8ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass11.E8ArrayList" />
+    <configuration name="E8Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass12.E8Dog" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass11.*" />
+          <option name="PATTERN" value="reviewClass12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E9ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass11.E9ArrayList" />
+    <configuration name="E9ConfigFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass12.E9ConfigFile" />
       <module name="Review Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass11.*" />
+          <option name="PATTERN" value="reviewClass12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E14Maps" />
-        <item itemvalue="Application.E13Collections" />
-        <item itemvalue="Application.E10PracticelExamples" />
-        <item itemvalue="Application.E9ArrayList" />
-        <item itemvalue="Application.E8ArrayList" />
+        <item itemvalue="Application.E7InterviewQuestionAsghar" />
+        <item itemvalue="Application.E10ConfigReader" />
+        <item itemvalue="Application.E9ConfigFile" />
+        <item itemvalue="Application.E8Dog (1)" />
+        <item itemvalue="Application.E8Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685067485343</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="reviewClass11">
+      <created>1685672429329</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685672429329</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +213,7 @@
     <MESSAGE value="reviewClass08" />
     <MESSAGE value="reviewClass09" />
     <MESSAGE value="reviewClass10" />
-    <option name="LAST_COMMIT_MESSAGE" value="reviewClass10" />
+    <MESSAGE value="reviewClass11" />
+    <option name="LAST_COMMIT_MESSAGE" value="reviewClass11" />
   </component>
 </project>
