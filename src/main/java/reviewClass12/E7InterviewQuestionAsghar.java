@@ -28,7 +28,10 @@ public class E7InterviewQuestionAsghar {
                 map.replace(num, count);
             }
         }
-        System.out.println(map);
+        //System.out.println(map);
+        for (var entry : map.entrySet()) {
+            System.out.println(entry.getKey() +", "+ entry.getValue());
+        }
     }
 }
 

@@ -13,9 +13,12 @@ public class E7ArrayList {
         student.add("Abdul");
         student.add("Semir");
         student.add("Semir");
-        //student.remove("Halima");
+        student.remove("Halima");
         student.add(3, "James");
         System.out.println(student);
+        for (String s : student) {
+            System.out.print(s+", ");
+        }
 
     }
 }

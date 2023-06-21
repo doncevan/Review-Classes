@@ -18,7 +18,7 @@ public class E2ArrayList {
         for (int i = 0; i < arrayList.size(); i++) {
             String name = arrayList.get(i);
             if (name.contains("a")) {
-                System.out.println(name);
+                System.out.print(name + ", ");
             }
         }
     }

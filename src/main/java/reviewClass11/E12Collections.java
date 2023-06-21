@@ -11,12 +11,12 @@ public class E12Collections {
         numbers.add(30);
         numbers.add(10);
 
-        System.out.println(Collections.frequency(numbers, 50));
+        System.out.println(Collections.frequency(numbers, 10));
         System.out.println(numbers);
         Collections.shuffle(numbers);
         System.out.println(numbers);
         int[] arr = new int[10];
-        Arrays.fill(arr, 50);
+        Arrays.fill(arr, 4,9,7);
         System.out.println(Arrays.toString(arr));
 
     }

@@ -1,18 +1,22 @@
 package reviewClass12;
 
+import Utils.Constants;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
 public class ConfigReader {
     public static String read(String key) {
-        String path = "Files/config.properties";
+
         FileInputStream fis = null;
         String value = null;
+
         try {
-            fis = new FileInputStream(path);
+            fis = new FileInputStream(Constants.CONFIG_FILE_PATH);
             Properties properties = new Properties();
             properties.load(fis);
+
             value = properties.getProperty(key);
         } catch (IOException f) {
             f.printStackTrace();

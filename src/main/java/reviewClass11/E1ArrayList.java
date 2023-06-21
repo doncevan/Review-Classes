@@ -11,8 +11,15 @@ public class E1ArrayList {
 
         //2 No built-in methods are available for arrays
         for (String name : names) {
+            System.out.print(name+", ");
+
             if (name.equals("Axel")) {
+                System.out.println();
+
                 System.out.println("Found");
+
+                name.contains("Al");
+                System.out.println(name);
             }
         }
     }

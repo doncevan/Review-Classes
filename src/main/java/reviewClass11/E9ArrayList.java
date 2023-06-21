@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import java.sql.Driver;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -13,7 +14,7 @@ import java.util.List;
 public class E9ArrayList {
     public static void main(String[] args) {
 
-        WebDriver webDriver = new FirefoxDriver();
+        WebDriver webDriver = new ChromeDriver();
         webDriver.get("https://www.amazon.com/");
         List<WebElement> allATags = webDriver.findElements(By.xpath("//a"));
         for (WebElement e : allATags) {
