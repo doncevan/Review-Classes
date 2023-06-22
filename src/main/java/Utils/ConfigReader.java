@@ -1,6 +1,4 @@
-package reviewClass12;
-
-import Utils.Constants;
+package Utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;

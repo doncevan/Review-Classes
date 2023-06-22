@@ -1,25 +1,15 @@
-package reviewClass13;
+package Utils;
 
 
-import Utils.Constants;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+
 
 public class ExcelReader {
-    public static void main(String[] args) {
-
-        var excelData = read(Constants.EXCEL_FILE_PATH, "Sheet1");
-        System.out.println(excelData);
-    }
-
 
     public static List<Map<String, String>> read(String filePath, String sheetName) {
 
@@ -35,10 +25,12 @@ public class ExcelReader {
                 Map<String, String> rowMap = new LinkedHashMap<>();
                 Row row = sheet.getRow(i);
                 int noOfCells = row.getPhysicalNumberOfCells();
-                for (int j = 0; j < noOfCells; j++) {
+                for (int j = 0; j <  noOfCells; j++) {
                     String key = headerRow.getCell(j).toString();
                     String value = row.getCell(j).toString();
                     rowMap.put(key, value);
+                    System.out.println(key+" == "+value);
+
                 }
                 mapList.add(rowMap);
             }
